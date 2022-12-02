@@ -1,0 +1,18 @@
+div{
+    position: fixed;
+    margin-left: 600px;
+    margin-top: -30px;
+    top: 200px;
+    box-shadow: -60px 70px 0px 100px rgba(255, 174, 0, 0.774);
+    height:25vh;
+    width: 25vh;
+}
+    
+div span{  
+    display: block;
+    margin: 250px 100px 0px -130px;
+    color: white;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
